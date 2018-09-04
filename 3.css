@@ -1,0 +1,80 @@
+
+header a:hover{
+    font-weight:bold;
+    color:white;
+}
+nav{
+	float:right;
+}
+header a{
+	text-decoration: none;
+	margin-right: 10px;
+	color:black;
+	font-size:20px;
+}
+header{
+    background-color:mediumaquamarine;
+	padding: 25px;
+	border-bottom: black 5px solid;
+	border-left: black 5px solid;
+	border-right: black 5px solid;
+}
+.container h1{
+	width:100%;
+    margin: auto;
+    overflow:hidden;
+    text-align: center;
+    font-style: oblique;
+    font-size:80px;
+}
+.container1{
+	width:50%;
+    margin: auto;
+    overflow:hidden;
+    text-align: center;
+    color:black;
+    font-weight: bold;
+    font-size: 50px;
+}
+.highlight{
+    background-color:gray;
+    font-weight: bold;
+    color:white;
+    padding: 3px;
+}
+footer{
+    background-color: mediumaquamarine;
+    color: black;
+    border-top:black 5px solid;
+    border-left:black 5px solid;
+    border-right:black 5px  solid;
+    text-align: center;
+    text-decoration:none;
+}
+footer a:hover{
+    background-color:gray;
+    font-weight: bold;
+    color:white;
+    padding: 3px;
+}
+footer a{
+    text-decoration: none;
+    color:blue;
+}
+footer a:visited{
+    text-decoration: none;
+}
+#paragraph{
+    background-image:url(beach.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+}
+.imgBlock{
+    float:left;
+    text-align:center;
+    width:20%;
+    margin-left:50px;
+    margin-right:50px;
+}
