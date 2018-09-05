@@ -78,3 +78,12 @@ footer a:visited{
     margin-left:50px;
     margin-right:50px;
 }
+#paragraph .p1{
+    width:400px;
+    background: rgb(52,204,255,0.5);
+    color:white;
+    margin:auto;
+    font-size:25px;
+    padding:50px;
+    border-radius:50px;
+}
