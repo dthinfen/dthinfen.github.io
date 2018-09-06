@@ -71,9 +71,11 @@ footer a:visited{
     background-size: cover;
     height:100%;
 }
-.imgBlock{
-    text-align:center;
-    width:20%;
-    margin-left:50px;
-    margin-right:50px;
+
+.imgBlock img{
+    width:60%;
+    margin-bottom:100px;
+}
+#paragraph h1{
+    max-width: 80%
 }

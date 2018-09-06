@@ -86,4 +86,5 @@ footer a:visited{
     font-size:25px;
     padding:50px;
     border-radius:50px;
+    max-width:60%;
 }
